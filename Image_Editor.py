@@ -13,7 +13,6 @@ root.title("Photo Editor")
 root.geometry("640x640")
 root.wm_iconbitmap("Photo_editor.ico")
 
-
 # create functions
 def selected():
     global img_path, img
